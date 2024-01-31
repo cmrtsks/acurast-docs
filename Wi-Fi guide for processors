@@ -1,0 +1,46 @@
+Wi-Fi can be unstable, especially in dense urban environments.
+
+Introduction
+
+Since processors connect via Wi-Fi by default, knowing your Wi-Fi can be detrimental for your processors’ performance. In this guide, we will provide some ideas you could use to improve your setup.
+
+Analyze local Wi-Fi environment
+
+Wi-Fi can be overcrowded, impacting stability and speed. Therefore, it’s recommended to analyze your Wi-Fi environment. You can search your smartphones app-store for ‘’WiFi Analyzer’’ or ‘’WiFi Toolkit’’ to find an app that allows you to scan for surrounding Wi-Fi networks. The amount of competing Wi-Fi networks can limit your performance. It’s best to perform a scan when your neighbors are most likely to use their own Wi-Fi.
+
+5Ghz vs 2,4Ghz
+
+Make sure all your processors are on the 5Ghz frequency when connected to your router. Compared to 2,4Ghz, data transfer speeds are much faster and there is most likely less interference from other networks due to the limited range. It’s recommended to have your processor in the same room as your router for the best 5Ghz performance. Keep in mind that your router needs some room to breath, so keep some distance between your processor and the router (2 meter minimum). When running multiple processors, leave some room between them as well.
+
+Wi-Fi channels
+
+After scanning, you will see a readout of competing signals and what channels they are using. Some routers do an excellent job auto-selecting the best channels, others don’t. If you suffer from degraded performance, it could be worth a try to select the Wi-Fi channels manually. You can make adjustments by logging into your router via your web browser. Check the manual of your router how to do this.
+
+Router requirements (Wi-Fi 6)
+
+Depending on if you have any clients using Wi-Fi 6, it’s recommended to have a router that’s capable of utilizing at least Wi-Fi 6. What makes Wi-Fi 6 such an upgrade is the ability to use ‘’MU-MIMO (Multi-User, Multiple Input, Multiple Output)’’ and ‘’OFDMA (orthogonal frequency division multiple access) allowing your router to be better at multitasking. If your router has a ‘Zero-wait DFS’ function, make sure to enable it, since it allows you to use more channels on the 5Ghz frequency without interruption.
+
+6Ghz (Wi-Fi 6e/7)
+
+Wi-Fi 6e and Wi-Fi7 add a new 6Ghz frequency, which is great for dealing with congestion. 6Ghz is fast, new and doesn’t reach as far. So chances are there isn’t much congestion on the frequency. But keep in mind, your clients must also be able to utilize the 6Ghz frequency and thus be Wi-Fi 6e/7 certified.
+
+Further reading
+
+Wireless networking is complex, and difficult to troubleshoot. For more information on ‘’5Ghz vs 2,4Ghz’’ and ‘’Wi-Fi channels’’ we suggest you check out the following two articles from Highspeedinternet.com:
+
+https://www.highspeedinternet.com/resources/2-4-ghz-vs-5-ghz-wi-fi
+
+https://www.highspeedinternet.com/resources/how-to-find-the-best-wifi-channels-for-your-router
+
+Some additional information on ‘Channel width’ by Router Freak:
+
+https://www.routerfreak.com/best-wifi-channel-width-for-5ghz/
+
+For more advanced topics, Doctor EnGenius has a great FAQ:
+
+https://doctorengenius.engeniustech.com/en/collections/3700190-frequently-asked-questions
+
+
+
+
+
